@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms_Data Structures/Exercise 2 E-commerce Platform Search Function/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms_Data Structures/Exercise 7 Financial Forecasting/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design Patterns and Principles/Exercise 1 Implementing the Singleton Pattern/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design Patterns and Principles/Exercise 2 Implementing the Factory Method Pattern/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JUnit_Basic Testing Exercises/Exercise 1 Setting Up JUnit/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JUnit_Basic Testing Exercises/Exercise 3 Assertions in JUnit/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JUnit_Basic Testing Exercises/Exercise 4 Arrange-Act-Assert and Test Fixtures/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mockito exercises/Exercise 1 Mocking and Stubbing/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mockito exercises/Exercise 2 Verifying Interactions/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PLSQL_Exercises/Exercise 1 Control Structures/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PLSQL_Exercises/Exercise 3 Stored Procedures/Codes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SL4J Logging exercises/Exercise 1 Logging Error Messages and Warning Levels/Codes" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
