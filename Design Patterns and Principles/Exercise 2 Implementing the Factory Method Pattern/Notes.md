@@ -1,0 +1,6 @@
+# Notes: Factory Method Pattern
+
+**Mental Model:** The Factory Method is like ordering food at a restaurant. I don't go into the kitchen and make the burger myself (which is what using the `new` keyword does); I just ask the waiter (the Factory) for a burger, and they handle the creation. This means if the menu changes later, I don't have to change how I order; the kitchen just changes how they cook. It perfectly separates the "using" of an object from the "creating" of it.
+
+* **Implementation:** For this document management system, I am practicing the Factory Method Pattern. Instead of using the `new` keyword directly in my application code to create a specific type of document (like Word or PDF), I let specialized factory classes handle the creation logic.
+* **Why it matters:** This keeps my code loose and flexible (decoupled). If I need to add a new document type later (like a text file or PowerPoint), I just make a new class and its factory without modifying any of the existing code.
