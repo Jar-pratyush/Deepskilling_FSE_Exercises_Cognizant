@@ -1,3 +1,17 @@
 # IntelliJ specific files/folders
 .idea/
 out/
+*.iml
+
+# Maven compiled output
+target/
+
+# Java / Logs
+*.class
+*.log
+*.jar
+*.war
+
+# OS generated files
+.DS_Store
+Thumbs.db
